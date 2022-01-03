@@ -3,5 +3,5 @@
 # Last updated: 11 december 2019
 
 
-||tuyaeu.com
-||tuya.com
+||tuyaeu.com^
+||tuya.com||^
