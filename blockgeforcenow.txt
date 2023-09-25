@@ -1,0 +1,8 @@
+# This blocklist helps Adguard admin restrict access to youtube and its domains.
+# Curated from sources online.     
+# Last updated: 11 december 2019
+
+
+||geforcenow.com^
+||nvidiagrid.net^
+
